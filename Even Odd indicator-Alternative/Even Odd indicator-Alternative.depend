@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642617488 source:c:\users\md alimuzzaman haris\desktop\c programme\even odd indicator programme\even odd indicator-alternative\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
